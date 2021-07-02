@@ -5,7 +5,7 @@ Boilerplate
 
 Clone the git repository.
 ```
-git clone git@github.com:marcdubois71450/boilerplate-react.git
+git clone https://github.com/marcdubois71450/boilerplate-react.git
 ```
 Rename and Move in the right folder.
 ```
