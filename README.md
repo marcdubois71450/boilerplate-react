@@ -14,7 +14,7 @@ Rename and Move in the right folder.
 mv boilerplate-react your-project-name
 cd your-project-name/
 ```
-Remove link to hold git :
+Remove link to hold git :  
 Linux/ MacOS : 
 ```
 rm -rf .git
