@@ -48,7 +48,7 @@ module.exports = {
     publicPath: '/',
     historyApiFallback: true,
     port: 3000,
-    open: true
+    open: false
  },
   plugins: [
     htmlWebpackPlugin
