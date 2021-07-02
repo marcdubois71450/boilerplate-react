@@ -1,0 +1,11 @@
+.header_align {
+  margin-top: 50px;
+  height: calc(100vh - 50px);
+}
+.center {
+  margin: 0 auto;
+  width: auto;
+  min-width: 500px;
+  max-width: 935px;
+  height: 100%;
+}
