@@ -3,6 +3,8 @@ Boilerplate
 
 ### Project recovery
 
+Open terminal on MacOs or Linux, and Powershell on Windows
+
 Clone the git repository.
 ```
 git clone https://github.com/marcdubois71450/boilerplate-react.git
@@ -13,10 +15,14 @@ mv boilerplate-react your-project-name
 cd your-project-name/
 ```
 Remove link to hold git :
+Linux/ MacOS : 
 ```
 rm -rf .git
 ```
-
+Windows : 
+```
+Remove-Item -LiteralPath ".git" -Force -Recurse
+```
 Rename project / Change information on :
 ```
 public/index.html
