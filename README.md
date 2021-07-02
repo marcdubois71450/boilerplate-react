@@ -7,8 +7,9 @@ Clone the git repository.
 ```
 git clone git@github.com:marcdubois71450/boilerplate-react.git
 ```
-Move in the right folder.
+Rename and Move in the right folder.
 ```
+mv boilerplate-react your-project-name
 cd boilerplate-react/
 ```
 Remove link to hold git :
